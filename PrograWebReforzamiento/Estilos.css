@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+    color: rgb(7, 31, 138);
+    margin: 0;
+     
+}
+
+header {
+    background-color: rgb(17, 17, 128);
+    color: azure;
+    text-align: center;
+    padding: 25px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto; 
+    padding: 15px;
+}
+
+section {
+    background-color: aliceblue;
+    padding: 29px;
+    margin: 15px;
+    border: 10px; 
+}
+
+h2 {
+    color: blue;
+}
+
+a {
+    color: blue;
+}
